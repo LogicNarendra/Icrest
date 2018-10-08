@@ -1,0 +1,43 @@
+<application>
+  <component name="ActionsCollector">
+    <counts>
+      <entry action="$Copy" count="1" />
+      <entry action="$Delete" count="2" />
+      <entry action="$Paste" count="2" />
+      <entry action="$Undo" count="140" />
+      <entry action="Android Profiler" count="1" />
+      <entry action="Android.BuildApk" count="4" />
+      <entry action="Android.LinkExternalCppProject" count="1" />
+      <entry action="Android.RunAndroidAvdManager" count="5" />
+      <entry action="Android.RunAndroidSdkManager" count="1" />
+      <entry action="CleanGradleProject" count="17" />
+      <entry action="CloseProject" count="3" />
+      <entry action="CodeCompletion" count="251" />
+      <entry action="CommentByBlockComment" count="4" />
+      <entry action="CopyReference" count="1" />
+      <entry action="Debug" count="4" />
+      <entry action="DebugClass" count="1" />
+      <entry action="DialogOkAction Enter" count="2" />
+      <entry action="EditorBackSpace" count="954" />
+      <entry action="EditorChooseLookupItem" count="582" />
+      <entry action="EditorCodeBlockEnd" count="6" />
+      <entry action="EditorCopy" count="267" />
+      <entry action="EditorCut" count="18" />
+      <entry action="EditorDelete" count="56" />
+      <entry action="EditorDown" count="1456" />
+      <entry action="EditorDuplicate" count="1" />
+      <entry action="EditorEnter" count="515" />
+      <entry action="EditorLeft" count="91" />
+      <entry action="EditorLineEnd" count="3" />
+      <entry action="EditorPaste" count="397" />
+      <entry action="EditorRight" count="194" />
+      <entry action="EditorSplitLine" count="1" />
+      <entry action="EditorTab" count="11" />
+      <entry action="EditorTextEnd" count="1" />
+      <entry action="EditorUp" count="1401" />
+      <entry action="Generate" count="29" />
+      <entry action="GotoDeclaration" count="34" />
+      <entry action="HideAllWindows" count="12" />
+      <entry action="NewAndroidImageAsset" count="1" />
+      <entry action="NewClass" count="20" />
+      <entry action="NewDir" 

@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">IcrestExchange</string>
+
+    <string name="home_activity_name">Search</string>
+    <string name="search_hint">Search for country</string>
+
+
+    <string name="flag_desc">Flag</string>
+    <string name="country_capital_tile">Capital</string>
+    <string name="country_domain_title">Domain</string>
+    <string name="code_title">Code</string>
+    <string name="populaon_title">Population</string>
+    <string name="currency_code_title">Currency Code</string>
+    <string name="currency_name_title">Currency Name</string>
+    <string name="currency_symbol_title">Currency Symbol</string>
+
+    <string name="currency_title">Currency</string>
+    <string name="rate_tutle">Rate</string>
+</resources>
